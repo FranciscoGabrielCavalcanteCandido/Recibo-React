@@ -1,0 +1,8 @@
+.Header {
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 100%;
+    background-color: rgb(37, 37, 37);
+    color: rgb(255, 196, 2);
+
+}
